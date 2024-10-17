@@ -14,7 +14,7 @@ def consist(x):
     elif x in actions:
         return("game on")
     else: 
-        raise ValueError("Idiot, your input is invalid")
+        raise ValueError
         
         
 # Opponent function spits out randomly selected weapon 
