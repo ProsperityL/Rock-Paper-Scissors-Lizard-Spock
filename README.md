@@ -17,4 +17,6 @@ Scissors: Wins against Lizard and Paper (kills the Lizard or cuts the Paper)
 Lizard: Wins against Spock and Paper (poisons Spock or eats the Paper)
 Spock: Wins against Rock and Paper (vaporizes the Rock and smashes the Scissors)
 
-![rpsls](https://upload.wikimedia.org/wikipedia/commons/a/ad/Pierre_ciseaux_feuille_l%C3%A9zard_spock_aligned.svg)
+
+<img width="586" alt="image" src="https://github.com/user-attachments/assets/f56d5a26-9d91-48a9-8f6a-c2a47462b311">
+
