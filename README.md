@@ -1,10 +1,10 @@
 # Rock, Paper, Scissors, Lizard, Spock Game 
 
-# Project Overview 
+## Project Overview 
 
 This Python project is an extended version of the classic Rock-Paper-Scissors game, integrating two additional choices: Lizard and Spock, inspired by the variation made popular by the TV show The Big Bang Theory.
 
-# Rules
+## Rules
 
 Two participants choose one among the following weapons:
 Rock (closed fist, in red)
